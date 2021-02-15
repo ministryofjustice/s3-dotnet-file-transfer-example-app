@@ -1,0 +1,4 @@
+/appsettings-dev.json
+build/
+bin/
+obj/
